@@ -1,5 +1,5 @@
 # Static Shopping Website
- A simple Landing Page and a prototype of an ecommerce website.
+ A simple Landing Page and prototype of an ecommerce website.
  
 ## Visit Database
 * [Click Here](https://static-shopping.netlify.app/)
